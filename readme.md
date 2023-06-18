@@ -1,3 +1,9 @@
+# Youtube link of example run
+
+This shows how the game is supposed to behave and run if everything is setup correctly.
+
+[https://youtu.be/xR1HVc7VkRs](https://youtu.be/xR1HVc7VkRs)
+
 # The Project's Code  
 
 The system is designed by dividing it into three logical components:
